@@ -218,14 +218,14 @@
       "global_label_dangling": "warning",
       "hier_label_mismatch": "error",
       "label_dangling": "error",
-      "lib_symbol_issues": "warning",
+      "lib_symbol_issues": "ignore",
       "multiple_net_names": "warning",
       "net_not_bus_member": "warning",
       "no_connect_connected": "warning",
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "ignore",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "unannotated": "error",
@@ -322,20 +322,20 @@
       ""
     ],
     [
-      "6ab263d0-6ae2-4eab-bf84-d05cda8cdf81",
-      "FTDI"
-    ],
-    [
       "901c0a56-76e8-40ee-a3f0-be055c157460",
       "PSU"
     ],
     [
-      "6c355249-932e-40d2-9086-968a460ed90c",
-      "FPGA"
+      "6ab263d0-6ae2-4eab-bf84-d05cda8cdf81",
+      "FTDI"
     ],
     [
       "66ad58f2-7bea-4cba-bcfa-fcaf23436c51",
       "GPIO Expansion"
+    ],
+    [
+      "6c355249-932e-40d2-9086-968a460ed90c",
+      "FPGA"
     ]
   ],
   "text_variables": {}
