@@ -1,0 +1,12 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C302,0.1u,C_0402_1005Metric,-136.1186,-124.714,0,bottom
+C401,0.1u,C_0402_1005Metric,-196.6722,-119.7102,-90,bottom
+C402,0.1u,C_0402_1005Metric,-221.175,-97.6,180,bottom
+C403,0.1u,C_0402_1005Metric,-219.9132,-121.5644,180,bottom
+C404,0.1u,C_0402_1005Metric,-219.8878,-144.399,180,bottom
+C405,0.1u,C_0402_1005Metric,-194.975,-75.5,0,bottom
+C406,0.1u,C_0402_1005Metric,-217.875,-75.15,-90,bottom
+C407,0.1u,C_0402_1005Metric,-197.0278,-143.1798,180,bottom
+C408,0.1u,C_0402_1005Metric,-196.55,-96.9,-90,bottom
+R305,2.2k,R_0402_1005Metric,-138.8618,-109.0422,0,bottom
+U302,93LC56BT-I/OT,SOT-23-6,-139.2936,-112.5728,-90,bottom
