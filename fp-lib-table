@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name "ECELab_Footprint_PartsLibrary")(type "KiCad")(uri "D:/OneDrive/Documents/GitHub/ECELab_PCB/Parts Library/ECELab_Footprint_PartsLibrary.pretty")(options "")(descr ""))
-  (lib (name "ECELab_Footprints")(type "KiCad")(uri "D:/OneDrive/Documents/GitHub/ECELab_PCB/Parts Library/ECELab_Footprints.pretty")(options "")(descr ""))
-)
