@@ -6012,7 +6012,7 @@
     (uuid 4d7bb16c-4feb-4e0f-81e2-bd71891cf8b8)
     (property "Reference" "J302" (id 0) (at 271.78 31.115 0))
     (property "Value" "Conn_01x04_Male" (id 1) (at 271.78 33.655 0))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal" (id 2) (at 271.145 39.37 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (id 2) (at 271.145 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 271.145 39.37 0)
