@@ -89,7 +89,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "GERBER Protel (JLCPCB) v1.3/")
+      (outputdirectory "ECELabs_v1.2-backups/")
     )
   )
 
