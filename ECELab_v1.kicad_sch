@@ -568,9 +568,6 @@
     (path "/66ad58f2-7bea-4cba-bcfa-fcaf23436c51/fc7a6c83-8163-4ba3-8c1b-ee2a7a726e18"
       (reference "#PWR0479") (unit 1) (value "GND") (footprint "")
     )
-    (path "/66ad58f2-7bea-4cba-bcfa-fcaf23436c51/e3ecaa94-1645-49f8-aca8-a6e487bc54b7"
-      (reference "#PWR0480") (unit 1) (value "+5V") (footprint "")
-    )
     (path "/66ad58f2-7bea-4cba-bcfa-fcaf23436c51/c3b145da-f75d-4a45-8e3e-774c02b06590"
       (reference "#PWR0481") (unit 1) (value "GND") (footprint "")
     )
@@ -588,6 +585,9 @@
     )
     (path "/597833ba-7b93-40f1-990f-e200a5722799/c1e20735-1d5a-4a2d-b2e1-e212d04904a9"
       (reference "#PWR0603") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/66ad58f2-7bea-4cba-bcfa-fcaf23436c51/b54135fa-d610-410e-97e0-dd8136dd119b"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/901c0a56-76e8-40ee-a3f0-be055c157460/34b9596f-7235-438c-a329-9b971c773df2"
       (reference "C201") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -953,7 +953,7 @@
       (reference "U410") (unit 1) (value "93LC56BT-I/OT") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
     (path "/66ad58f2-7bea-4cba-bcfa-fcaf23436c51/daa0ddff-025d-462f-948b-680c77bf371e"
-      (reference "U411") (unit 1) (value "NE555DR") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+      (reference "U411") (unit 1) (value "LMC555CMX/NOPB") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/66ad58f2-7bea-4cba-bcfa-fcaf23436c51/ffc58539-9420-4c0e-83f8-8baa21995d54"
       (reference "U415") (unit 1) (value "FT4232HL-REEL") (footprint "Package_QFP:LQFP-64_10x10mm_P0.5mm")
